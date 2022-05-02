@@ -1,0 +1,25 @@
+1 -Leckner B. Process aspects in combustion and gasification Waste-to-Energy (WtE) units. Waste Management. 2015;37:13-25. 
+2 -Yassin L, Lettieri P, Simons SJ, Germanà A. Techno-economic performance of energy-from-waste fluidized bed combustion and gasification processes in the UK context. Chemical Engineering Journal. 2009;146:315-27. 
+3- Arena U. Process and technological aspects of municipal solid waste gasification. A review. Waste management. 2012;32:625-39. 
+4- Gang X, Jin B-s, ZHONG Z-p, Yong C, NI M-j, CEN K-f, et al. Experimental study on MSW gasification and melting technology. Journal of Environmental Sciences. 2007;19:1398-403. 
+5- Klinghoffer N, Castaldi M. Gasification and pyrolysis of municipal solid waste (MSW). Waste to Energy Conversion Technology. 2013:146-76. 
+6- Trippe F, Fröhling M, Schultmann F, Stahl R, Henrich E. Techno-economic assessment of gasification as a process step within biomass-to-liquid (BtL) fuel and chemicals production. Fuel Processing Technology. 2011;92:2169-84. 
+7- Guo X, Dai Z, Gong X, Chen X, Liu H, Wang F, et al. Performance of an entrained-flow gasification technology of pulverized coal in pilot-scale plant. Fuel processing technology. 2007;88:451-9. 
+8- Svoboda K, Pohořelý M, Hartman M, Martinec J. Pretreatment and feeding of biomass for pressurized entrained flow gasification. Fuel Processing Technology. 2009;90:629-35. 
+9- Van der Drift A, Boerrigter H, Coda B, Cieplik M, Hemmes K, Van Ree R, et al. Entrained flow gasification of biomass. Ash behaviour, feeding issues, and system analyses. 2004. 
+10- Watanabe H, Otaka M. Numerical simulation of coal gasification in entrained flow coal gasifier. Fuel. 2006;85:1935-43. 
+11- Fabry F, Rehmet C, Rohani V, Fulcheri L. Waste gasification by thermal plasma: a review. Waste and Biomass Valorization. 2013;4:421-39. 
+12- Gomez E, Rani DA, Cheeseman C, Deegan D, Wise M, Boccaccini A. Thermal plasma technology for the treatment of wastes: a critical review. Journal of Hazardous Materials. 2009;161:614-26. 
+13- Willis KP, Osada S, Willerton KL. Plasma gasification: lessons learned at Eco-Valley WTE facility. 18th Annual North American Waste-to-Energy Conference: American Society of Mechanical Engineers; 2010. p. 133-40. 
+14- Prins MJ, Ptasinski KJ, Janssen FJ. From coal to biomass gasification: comparison of thermodynamic efficiency. Energy. 2007;32:1248-59. 
+15- Sagheb Kohpayeh Araghi, Mojtaba Mirzaie, Energy Recovery from municipal solid waste through plasma gasification, 2nd Conference on Mechanical, Electrical Engineering and Sciences, Norway, August 2021  
+16- Kunze C, Spliethoff H. Modelling, comparison and operation experiences of entrained flow gasifier. Energy Conversion and management. 2011;52:2135-41. 
+17- Mountouris A, Voutsas E, Tassios D. Solid waste plasma gasification: equilibrium model development and exergy analysis. Energy Conversion and Management. 2006;47:1723-37. 
+18- Mountouris A, Voutsas E, Tassios D. Plasma gasification of sewage sludge: Process development and energy optimization. Energy Conversion and Management. 2008;49:2264-71. 
+19-Zhang Q, Wu Y, Dor L, Yang W, Blasiak W. A thermodynamic analysis of solid waste gasification in the Plasma Gasification Melting process. Applied Energy. 2013;112:405-13. 
+20- Minutillo M, Perna A, Di Bona D. Modelling and performance analysis of an integrated plasma gasification combined cycle (IPGCC) power plant. Energy Conversion and Management. 2009;50:2837-42. 
+21- Janajreh I, Raza SS, Valmundsson AS. Plasma gasification process: Modeling, simulation and comparison with conventional air gasification. Energy conversion and management. 2013;65:801-9. 
+22- Adeyemi I, Janajreh I. Gasification of two untapped resources: El-lajjun oil shale and municipal solid waste. International Journal Of Modern Engineering.19:61. 
+23- Kathirvale S, Yunus MNM, Sopian K, Samsuddin AH. Energy potential from municipal solid waste in Malaysia. Renewable energy. 2004;29:559-67. 
+24- Cormos C-C. Integrated assessment of IGCC power generation technology with carbon capture and storage (CCS). Energy. 2012;42:434-45. 
+25- Agon N, Hrabovský M, Chumak O, Hlína M, Kopecký V, Mas̆láni A, et al. Plasma gasification of refuse derived fuel in a single-stage system using different gasifying agents. Waste Management. 2016;47:246-55.
